@@ -1,0 +1,15 @@
+.btn-banner {background-image: linear-gradient(to right, #c76102 0%, #e6bc13  51%, #df7606  100%)}
+  .btn-banner {
+    padding: 15px 35px;
+    text-align: center;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    border-radius: 5px;
+  }
+
+  .btn-banner:hover {
+    background-position: right center;
+    color: #fff;
+    text-decoration: none;
+  }
